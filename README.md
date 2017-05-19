@@ -1,2 +1,2 @@
-# newman-reporter-teamcity
-A newman reporter for TeamCity.
+# newman-mongo-reporter
+A newman reporter to Mongo.
